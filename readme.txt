@@ -1,0 +1,4 @@
+- Numele complet  : Nedelcu Ionut
+- Tema proiectului : Wbsite Clinica Medicala
+- Link-ul cãtre template-ul folosit pentru proiect: https://colorlib.com/wp/template/drcare/
+- Cursul urmat (Web Developer sau Programare Web 2): Web Developer
